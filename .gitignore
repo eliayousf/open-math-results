@@ -1,0 +1,4 @@
+/.direnv/
+/.elan/
+/.lake/
+__pycache__/
