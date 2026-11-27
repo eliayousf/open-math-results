@@ -1,1 +1,11 @@
 import OpenMath.A000033
+import OpenMath.A000704
+import OpenMath.A001481
+import OpenMath.A001566
+import OpenMath.A003477
+import OpenMath.A005994
+import OpenMath.A006364
+import OpenMath.A007645
+import OpenMath.A008676
+import OpenMath.A020964
+import OpenMath.A026796
